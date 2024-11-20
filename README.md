@@ -32,32 +32,34 @@ This project demonstrates the setup of a virtualized environment on VirtualBox, 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Virtual Network Setup Diagram <br/>  <br/>
+<img src="https://imgur.com/hNSsycP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Home Lab Set Up (Installation of Kali and Ubuntu) <br/><br/>
+<img src="https://imgur.com/pjzghZp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Virtual Network Setup  <br/><br/>
+<img src="https://imgur.com/K9dJBGE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+ <img src="https://imgur.com/Ylkvo30.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Firewall Installation on Ubuntu<br/> <br/>
+<img src="https://imgur.com/NrpaBex.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Firewall Disable on Ubuntu  <br/> <br/>
+<img src="https://imgur.com/ah4nZS7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Kali attack Ubuntu and wireshark detects the attack  <br/> <br/>
+<img src="https://imgur.com/2FCA08l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Firewall Enable on Ubuntu, Kali attack again, Ubuntu defends attack  <br/><br/>
+<img src="https://imgur.com/fSZSwES.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
